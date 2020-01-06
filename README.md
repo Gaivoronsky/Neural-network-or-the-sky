@@ -8,6 +8,9 @@ RU
 Для запуска необходимо выполнить файл main.py
 При желании использовать свою картину, положите её в эту же директорию и в main.py в функции use_code() внесите ее имя
 
+Также там есть код для тренировки, но без датасета
+P.S. максимум 100 мб
+
 EU
 Neural network trained to determine the weather (cloudy, cloudy, clear, no sky)
 Just upload a photo to it (I leave one for your test)
@@ -16,3 +19,6 @@ Network model is available here - https://drive.google.com/open?id=1RIGTQJQkAaAV
 
 To run, you must run the file main.py
 If you want to use your picture, put it in the same directory and in main.py in the use_code() function enter its name
+
+Also there is a code for training, but without a dataset
+P.S. maximum 100 mb
